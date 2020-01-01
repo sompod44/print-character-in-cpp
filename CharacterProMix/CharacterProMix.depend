@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1577829111 source:e:\main files\my_workhouse\programming sector\c++ programming\characterpromix\main.cpp
+	<iostream>
+	<stdio.h>
+	"sompod_magic.h"
+	<chrono>
+	<thread>
+	<conio.h>
+	<windows.h>
+
+1577827554 e:\main files\my_workhouse\programming sector\c++ programming\characterpromix\magic.h
+
+1577828576 e:\main files\my_workhouse\programming sector\c++ programming\characterpromix\sompod_magic.h
+
